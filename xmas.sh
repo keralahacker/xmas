@@ -1,5 +1,10 @@
 
 
+#to all script kiddes,my linux lovers
+#https://github.com/keralahacker/
+#@hack_with_vyshu
+
+## happy xmas boyzzzzz
 #!/bin/bash
 
 while true
